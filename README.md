@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M-Adil
+- 👋 Hi, I’m @Adil-Rao
 - 👀 I’m interested in leanring, teaching and writing code.
 - 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on backend techlogogy like Nodejs, Expressjs etc.
